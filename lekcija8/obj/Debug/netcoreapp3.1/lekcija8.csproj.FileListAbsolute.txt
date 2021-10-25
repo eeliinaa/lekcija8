@@ -1,0 +1,13 @@
+F:\c#\l8\lekcija8\lekcija8\bin\Debug\netcoreapp3.1\lekcija8.exe
+F:\c#\l8\lekcija8\lekcija8\bin\Debug\netcoreapp3.1\lekcija8.deps.json
+F:\c#\l8\lekcija8\lekcija8\bin\Debug\netcoreapp3.1\lekcija8.runtimeconfig.json
+F:\c#\l8\lekcija8\lekcija8\bin\Debug\netcoreapp3.1\lekcija8.runtimeconfig.dev.json
+F:\c#\l8\lekcija8\lekcija8\bin\Debug\netcoreapp3.1\lekcija8.dll
+F:\c#\l8\lekcija8\lekcija8\bin\Debug\netcoreapp3.1\lekcija8.pdb
+F:\c#\l8\lekcija8\lekcija8\obj\Debug\netcoreapp3.1\lekcija8.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\l8\lekcija8\lekcija8\obj\Debug\netcoreapp3.1\lekcija8.AssemblyInfoInputs.cache
+F:\c#\l8\lekcija8\lekcija8\obj\Debug\netcoreapp3.1\lekcija8.AssemblyInfo.cs
+F:\c#\l8\lekcija8\lekcija8\obj\Debug\netcoreapp3.1\lekcija8.csproj.CoreCompileInputs.cache
+F:\c#\l8\lekcija8\lekcija8\obj\Debug\netcoreapp3.1\lekcija8.dll
+F:\c#\l8\lekcija8\lekcija8\obj\Debug\netcoreapp3.1\lekcija8.pdb
+F:\c#\l8\lekcija8\lekcija8\obj\Debug\netcoreapp3.1\lekcija8.genruntimeconfig.cache
